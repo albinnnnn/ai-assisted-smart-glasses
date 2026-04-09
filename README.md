@@ -84,10 +84,3 @@ python3 smart_ai_glass.py
 
 ---
 
-## Completed Project
-
-This project is part of a broader embedded AI portfolio including:
-
-- **HelmetGuard** — YOLOv11s helmet detection with Streamlit UI
-- **TomatoScan** — YOLOv8s + MobileNetV3-Large tomato disease classifier
-- **Edge RFID Attendance** — ESP32/ESP8266 MQTT attendance system
